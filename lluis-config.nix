@@ -22,6 +22,11 @@
         zoxide
         nerdfonts
         chromium
+        pulseaudioFull
+        xorg.xbacklight
+        brightnessctl
+        xorg.xev
+        xorg.xmodmap
 			];
 	};
 }
