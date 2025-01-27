@@ -19,7 +19,9 @@
 				gnugrep
 				fzf
 				tree
+        zoxide
+        nerdfonts
+        chromium
 			];
 	};
-		
 }

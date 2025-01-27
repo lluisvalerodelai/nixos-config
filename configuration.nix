@@ -85,6 +85,7 @@
   users.users.lluis = {
     isNormalUser = true;
     description = "Luis Valero";
+    home = "/home/lluis";
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
     #  thunderbird
@@ -115,6 +116,7 @@
   curl
   git
   neofetch
+  gcc
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
